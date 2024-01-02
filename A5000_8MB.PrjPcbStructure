@@ -1,1 +1,3 @@
-Record=TopLevelDocument|FileName=A5000_8MB.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=A5000_8MB.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=A5000_8MB.SchDoc|FileName=A5000_8MB_Glue.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=A5000_8MB.SchDoc|FileName=A5000_8MB_Slave.SchDoc|SheetNumber=3
