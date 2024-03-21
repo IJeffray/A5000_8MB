@@ -258,6 +258,10 @@ Variation42=Designator=R552|UniqueId=\VHITRSII|Kind=1|AlternatePart=
 Variation43=Designator=D1|UniqueId=\VUJEELGX|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for A5000_8MB\Design Rule Check - A5000_8MB.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=BOM_RevNo
 Value=1.0
@@ -1140,6 +1144,8 @@ Type133=1
 Type134=1
 Type135=1
 Type136=1
+Type137=1
+Type138=1
 
 [Difference Levels]
 Type1=1
@@ -1369,6 +1375,8 @@ Type148=2
 Type149=2
 Type150=2
 Type151=2
+Type152=1
+Type153=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
