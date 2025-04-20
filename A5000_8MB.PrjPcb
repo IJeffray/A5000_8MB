@@ -44,7 +44,6 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
-CurrentVariant=JLCPCB_Assy
 
 [Preferences]
 PrefsVaultGUID=
@@ -107,7 +106,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document4]
-DocumentPath=A5000_8MB.SchDoc
+DocumentPath=A5000_8MB_MEMCs.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -141,7 +140,7 @@ GenerateClassCluster=0
 DocumentUniqueId=UUXNNUPM
 
 [Document6]
-DocumentPath=A5000_8MB_Slave.SchDoc
+DocumentPath=A5000_8MB_RAMs.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -189,7 +188,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MPRJBCLL
 
 [Document9]
 DocumentPath=C:\Users\ian\Documents\AltiumLL\SamacSys.SchLib
@@ -214,45 +213,45 @@ Description=JLCPCB_Assy
 AllowFabrication=0
 ParameterCount=0
 VariationCount=11
-Variation1=Designator=U1|UniqueId=\NWXHZSEQ|Kind=1|AlternatePart=
-Variation2=Designator=U2|UniqueId=\UNKIPXSA|Kind=1|AlternatePart=
-Variation3=Designator=IC71|UniqueId=\DJZUXNTK|Kind=1|AlternatePart=
-Variation4=Designator=U21|UniqueId=\YHOMWHYI|Kind=1|AlternatePart=
-Variation5=Designator=U22|UniqueId=\SUZOSCTZ|Kind=1|AlternatePart=
-Variation6=Designator=C7|UniqueId=\KKCVHFCX|Kind=1|AlternatePart=
-Variation7=Designator=C8|UniqueId=\XLYEEPUD|Kind=1|AlternatePart=
-Variation8=Designator=C101|UniqueId=\PLGJJGCQ|Kind=1|AlternatePart=
-Variation9=Designator=IC4|UniqueId=\RGHXLHAY|Kind=1|AlternatePart=
-Variation10=Designator=C13|UniqueId=\LLCTMJTC|Kind=1|AlternatePart=
-Variation11=Designator=RST_OUT|UniqueId=\WQVIZLFI|Kind=1|AlternatePart=
+Variation1=Designator=IC71|UniqueId=\DJZUXNTK|Kind=1|AlternatePart=
+Variation2=Designator=U21|UniqueId=\YHOMWHYI|Kind=1|AlternatePart=
+Variation3=Designator=U22|UniqueId=\SUZOSCTZ|Kind=1|AlternatePart=
+Variation4=Designator=C101|UniqueId=\PLGJJGCQ|Kind=1|AlternatePart=
+Variation5=Designator=IC4|UniqueId=\RGHXLHAY|Kind=1|AlternatePart=
+Variation6=Designator=C13|UniqueId=\LLCTMJTC|Kind=1|AlternatePart=
+Variation7=Designator=RST_OUT|UniqueId=\WQVIZLFI|Kind=1|AlternatePart=
+Variation8=Designator=U1|UniqueId=\EWSNWAYA|Kind=1|AlternatePart=
+Variation9=Designator=U2|UniqueId=\RQAGXIUB|Kind=1|AlternatePart=
+Variation10=Designator=C8|UniqueId=\DQUNDGPG|Kind=1|AlternatePart=
+Variation11=Designator=C7|UniqueId=\CBJLMVJT|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Parameter1]
-Name=Sch_RevNo
+Name=BOM_RevNo
 Value=1.0
 
 [Parameter2]
-Name=Sch_releaseDate
-Value=April 2025
-
-[Parameter3]
-Name=Project_Title
-Value=A5000_8MB
-
-[Parameter4]
-Name=ProjectName
-Value=A5000_8MB
-
-[Parameter5]
-Name=PCB_RevNo
-Value=1.0
-
-[Parameter6]
 Name=Engineer_Name
 Value=Codion Ltd
 
+[Parameter3]
+Name=PCB_RevNo
+Value=1.0
+
+[Parameter4]
+Name=Project_Title
+Value=A5000_8MB
+
+[Parameter5]
+Name=ProjectName
+Value=A5000_8MB
+
+[Parameter6]
+Name=Sch_releaseDate
+Value=April 2025
+
 [Parameter7]
-Name=BOM_RevNo
+Name=Sch_RevNo
 Value=1.0
 
 [Configuration1]
