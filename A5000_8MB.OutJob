@@ -15,13 +15,13 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=A3000_8MB.OutJob
+Name=A5000_8MB.OutJob
 Description=
 TargetOutputMedium=Folder Structure
 VariantName=JLCPCB_Assy
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=Lexmark T652
+TargetPrinter=lexmarkt652
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -42,7 +42,7 @@ OutputEnabled1_OutputMedium2=0
 OutputEnabled1_OutputMedium3=2
 OutputDefault1=0
 Configuration1_Name1=OutputConfigurationParameter1
-Configuration1_Item1=AddLayersToGroup.Group_0=0|AddLayersToGroup.Group_1=1|AddLayersToGroup.Group_2=2|AddLayersToGroup.Group_3=3|AddLayersToGroup.Group_4=4|AddLayersToGroup.Group_5=5|AddLayersToGroup.Group_6=7|AddLayersToGroup.Group_7=8|AddLayersToGroup.Set_0=16908289|AddLayersToGroup.Set_1=16908289|AddLayersToGroup.Set_2=16908289|AddLayersToGroup.Set_3=16908289|AddLayersToGroup.Set_4=16908289|AddLayersToGroup.Set_5=16908289|AddLayersToGroup.Set_6=16908289|AddLayersToGroup.Set_7=16908289|AddLayersToGroups.Count=8|AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16908289~1|BoardID=BFSVMSNP|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GenerateReports=False|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=6|NumberOfDecimals=6|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|OutputFormat=Different|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973834~1,16777217~1,16842751~1,16973835~1,16973831~1,16908289~1,16908290~1,16908291~1,16777218~1,16777219~1,16973837~1,16777220~1,16777221~1,16908307~1,16973832~1,16973833~1|PlotBoardProfile=False|PlotBoardProfileFileName=ARM2toARM3Adapter.GM|PlotDrillDrawingLayerPair0_Backdrill=False|PlotDrillDrawingLayerPair0_Checked=True|PlotDrillDrawingLayerPair0_DrillType=Regular|PlotDrillDrawingLayerPair0_FileName=ARM2toARM3Adapter.GD1|PlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|PlotDrillDrawingLayerPair0_LowLayer=Top Layer|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=True|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=True|Sorted=False|Sorted=False|UncheckPlotDrillGuideLayerPair0_Backdrill=False|UncheckPlotDrillGuideLayerPair0_Checked=False|UncheckPlotDrillGuideLayerPair0_DrillType=Regular|UncheckPlotDrillGuideLayerPair0_FileName=ARM2toARM3Adapter.GG1|UncheckPlotDrillGuideLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillGuideLayerPair0_LowLayer=Top Layer|UserLayerName.Caption0=ARM2toARM3Adapter.GBP|UserLayerName.Caption1=ARM2toARM3Adapter.GTP|UserLayerName.Caption10=ARM2toARM3Adapter.GM7|UserLayerName.Caption11=ARM2toARM3Adapter.GBS|UserLayerName.Caption12=ARM2toARM3Adapter.G4|UserLayerName.Caption13=ARM2toARM3Adapter.GM16|UserLayerName.Caption14=ARM2toARM3Adapter.GBL|UserLayerName.Caption15=ARM2toARM3Adapter.GM5|UserLayerName.Caption16=ARM2toARM3Adapter.GM15|UserLayerName.Caption17=ARM2toARM3Adapter.GM14|UserLayerName.Caption18=ARM2toARM3Adapter.GM17|UserLayerName.Caption19=ARM2toARM3Adapter.GTL|UserLayerName.Caption2=ARM2toARM3Adapter.GTO|UserLayerName.Caption20=ARM2toARM3Adapter.GM18|UserLayerName.Caption21=ARM2toARM3Adapter.GBO|UserLayerName.Caption22=ARM2toARM3Adapter.GPT|UserLayerName.Caption23=ARM2toARM3Adapter.GM13|UserLayerName.Caption24=ARM2toARM3Adapter.GM11|UserLayerName.Caption25=ARM2toARM3Adapter.GM1|UserLayerName.Caption26=ARM2toARM3Adapter.GM3|UserLayerName.Caption27=ARM2toARM3Adapter.GKO|UserLayerName.Caption3=ARM2toARM3Adapter.GTS|UserLayerName.Caption4=ARM2toARM3Adapter.GM4|UserLayerName.Caption5=ARM2toARM3Adapter.GM2|UserLayerName.Caption6=ARM2toARM3Adapter.GM12|UserLayerName.Caption7=ARM2toARM3Adapter.GPB|UserLayerName.Caption8=ARM2toARM3Adapter.G1|UserLayerName.Caption9=A3000_16MB_BoardOutline.GM19|UserLayerName.Count=28|UserLayerName.Layer0=16973833|UserLayerName.Layer1=16973832|UserLayerName.Layer10=16908295|UserLayerName.Layer11=16973835|UserLayerName.Layer12=16777219|UserLayerName.Layer13=16908304|UserLayerName.Layer14=16842751|UserLayerName.Layer15=16908293|UserLayerName.Layer16=16908303|UserLayerName.Layer17=16908302|UserLayerName.Layer18=16908305|UserLayerName.Layer19=16777217|UserLayerName.Layer2=16973830|UserLayerName.Layer20=16908306|UserLayerName.Layer21=16973831|UserLayerName.Layer22=16973848|UserLayerName.Layer23=16908301|UserLayerName.Layer24=16908299|UserLayerName.Layer25=16908289|UserLayerName.Layer26=16908291|UserLayerName.Layer27=16973837|UserLayerName.Layer3=16973834|UserLayerName.Layer4=16908292|UserLayerName.Layer5=16908290|UserLayerName.Layer6=16908300|UserLayerName.Layer7=16973849|UserLayerName.Layer8=16777218|UserLayerName.Layer9=16908307|DocumentPath=G:\AcornDev\A3000_16MB\A3000_16MB.pcbdoc
+Configuration1_Item1=AddLayersToGroup.Group_0=0|AddLayersToGroup.Group_1=1|AddLayersToGroup.Group_2=2|AddLayersToGroup.Group_3=3|AddLayersToGroup.Group_4=4|AddLayersToGroup.Group_5=5|AddLayersToGroup.Group_6=7|AddLayersToGroup.Group_7=8|AddLayersToGroup.Set_0=16908289|AddLayersToGroup.Set_1=16908289|AddLayersToGroup.Set_2=16908289|AddLayersToGroup.Set_3=16908289|AddLayersToGroup.Set_4=16908289|AddLayersToGroup.Set_5=16908289|AddLayersToGroup.Set_6=16908289|AddLayersToGroup.Set_7=16908289|AddLayersToGroups.Count=8|AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16908289~1|BoardID=BFSVMSNP|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GenerateReports=False|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=6|NumberOfDecimals=6|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|OutputFormat=Different|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973834~1,16777217~1,16842751~1,16973835~1,16973831~1,16908289~1,16908290~1,16908291~1,16777218~1,16777219~1,16973837~1,16973832~1,16973833~1,16908308~1|PlotBoardProfile=False|PlotBoardProfileFileName= |PlotDrillDrawingLayerPair0_Backdrill=False|PlotDrillDrawingLayerPair0_Checked=True|PlotDrillDrawingLayerPair0_DrillType=Regular|PlotDrillDrawingLayerPair0_FileName= |PlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|PlotDrillDrawingLayerPair0_LowLayer=Top Layer|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=True|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=True|Sorted=False|Sorted=False|UncheckPlotDrillGuideLayerPair0_Backdrill=False|UncheckPlotDrillGuideLayerPair0_Checked=False|UncheckPlotDrillGuideLayerPair0_DrillType=Regular|UncheckPlotDrillGuideLayerPair0_FileName= |UncheckPlotDrillGuideLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillGuideLayerPair0_LowLayer=Top Layer|UserLayerName.Caption0=A3000_16MB_BoardOutline.GM19|UserLayerName.Count=1|UserLayerName.Layer0=16908307|DocumentPath=G:\AcornDev\A5000_8MB\A5000_8MB.pcbdoc
 OutputType2=NC Drill
 OutputName2=NC Drill Files
 OutputCategory2=Fabrication
@@ -107,7 +107,7 @@ PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 Configuration6_Name1=ColumnNameFormat
 Configuration6_Item1=CaptionAsName
 Configuration6_Name2=General
-Configuration6_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=0|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|UseDirectApi=False|BomSetName=
+Configuration6_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=0|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|BomSetName=
 Configuration6_Name3=GroupOrder
 Configuration6_Item3=Comment=True|Footprint=True
 Configuration6_Name4=SortOrder
@@ -118,17 +118,17 @@ Configuration6_Name6=VisibleOrder_Flat
 Configuration6_Item6=Comment=120|Designator=219|Description=120|Footprint=120|Quantity=74|LCSC Part #=100
 
 [PublishSettings]
-OutputFilePath2=G:\AcornDev\A3000_16MB\Manufacturing Data\A3000_16MB_VariantName_Rev1.0\
+OutputFilePath2=G:\AcornDev\A5000_8MB\Manufacturing Data\A5000_8MB_VariantName_Rev1.0\
 ReleaseManaged2=0
 OutputBasePath2=Manufacturing Data\
-OutputPathMedia2==ProjectName+'_'+VariantName+'_Rev'+PCB_RevNo
+OutputPathMedia2=
 OutputPathMediaValue2==ProjectName+'_'+VariantName+'_Rev'+PCB_RevNo
 OutputPathOutputer2=[Output Type]
 OutputPathOutputerPrefix2=
 OutputPathOutputerValue2=
 OutputFileName2=Epipole USB camera_PCB_Rev1.0.pdf
 OutputFileNameMulti2==ProjectName+'_'+OutputName+'_'+VariantName+'_Rev'+PCB_RevNo
-UseOutputNameForMulti2=0
+UseOutputNameForMulti2=1
 OutputFileNameSpecial2=
 OpenOutput2=0
 PromptOverwrite2=1
@@ -145,24 +145,24 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=G:\AcornDev\A3000_8MB\Manufacturing Data\A3000_8MB_VariantName_Rev1.0\
+OutputFilePath3=G:\AcornDev\A5000_8MB\Manufacturing Data\A5000_8MB_VariantName_Rev1.0\
 ReleaseManaged3=0
 OutputBasePath3=Manufacturing Data\
-OutputPathMedia3==ProjectName+'_'+VariantName+'_Rev'+PCB_RevNo
+OutputPathMedia3=
 OutputPathMediaValue3==ProjectName+'_'+VariantName+'_Rev'+PCB_RevNo
 OutputPathOutputer3=[Output Type]
 OutputPathOutputerPrefix3=
 OutputPathOutputerValue3=
 OutputFileName3=
 OutputFileNameMulti3==ProjectName+'_'+OutputName+'_'+VariantName+'_Rev'+PCB_RevNo
-UseOutputNameForMulti3=0
+UseOutputNameForMulti3=1
 OutputFileNameSpecial3=
 OpenOutput3=0
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=G:\AcornDev\A3000_16MB\Manufacturing Data\A3000_16MB_VariantName_Rev1.0\
+RelativeOutputPath2=G:\AcornDev\A5000_8MB\Manufacturing Data\A5000_8MB_VariantName_Rev1.0\
 OpenOutputs2=0
-RelativeOutputPath3=G:\AcornDev\A3000_8MB\Manufacturing Data\A3000_8MB_VariantName_Rev1.0\
+RelativeOutputPath3=G:\AcornDev\A5000_8MB\Manufacturing Data\A5000_8MB_VariantName_Rev1.0\
 OpenOutputs3=0
 AddToProject3=0
 TimestampFolder3=0
