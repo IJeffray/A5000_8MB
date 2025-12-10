@@ -212,18 +212,41 @@ UniqueId=0D76A037-AC70-406B-B392-B4B61A4982D4
 Description=JLCPCB_Assy
 AllowFabrication=0
 ParameterCount=0
-VariationCount=11
+VariationCount=34
 Variation1=Designator=IC71|UniqueId=\DJZUXNTK|Kind=1|AlternatePart=
 Variation2=Designator=U21|UniqueId=\YHOMWHYI|Kind=1|AlternatePart=
 Variation3=Designator=U22|UniqueId=\SUZOSCTZ|Kind=1|AlternatePart=
 Variation4=Designator=C101|UniqueId=\PLGJJGCQ|Kind=1|AlternatePart=
-Variation5=Designator=IC4|UniqueId=\RGHXLHAY|Kind=1|AlternatePart=
+Variation5=Designator=IC4|UniqueId=\RGHXLHAY|Kind=0|AlternatePart=
 Variation6=Designator=C13|UniqueId=\LLCTMJTC|Kind=1|AlternatePart=
 Variation7=Designator=RST_OUT|UniqueId=\WQVIZLFI|Kind=1|AlternatePart=
 Variation8=Designator=U1|UniqueId=\EWSNWAYA|Kind=1|AlternatePart=
 Variation9=Designator=U2|UniqueId=\RQAGXIUB|Kind=1|AlternatePart=
 Variation10=Designator=C8|UniqueId=\DQUNDGPG|Kind=1|AlternatePart=
 Variation11=Designator=C7|UniqueId=\CBJLMVJT|Kind=1|AlternatePart=
+Variation12=Designator=IC53|UniqueId=\EJUIZLIL|Kind=1|AlternatePart=
+Variation13=Designator=SK1|UniqueId=\AHBHSKMJ|Kind=1|AlternatePart=
+Variation14=Designator=J1|UniqueId=\VIBSVYPA|Kind=1|AlternatePart=
+Variation15=Designator=J2|UniqueId=\UAYSJNJN|Kind=1|AlternatePart=
+Variation16=Designator=SK2|UniqueId=\WVLNXAKP|Kind=1|AlternatePart=
+Variation17=Designator=J3|UniqueId=\ZCRIIFMG|Kind=1|AlternatePart=
+Variation18=Designator=LK1|UniqueId=\TMFLFOTL|Kind=1|AlternatePart=
+Variation19=Designator=Y1|UniqueId=\XCDXLBRU|Kind=1|AlternatePart=
+Variation20=Designator=Y2|UniqueId=\DLAEGDBY|Kind=1|AlternatePart=
+Variation21=Designator=C1|UniqueId=\ROCYZSDJ|Kind=1|AlternatePart=
+Variation22=Designator=C2|UniqueId=\EKDBSNEE|Kind=1|AlternatePart=
+Variation23=Designator=C3|UniqueId=\XABUREEO|Kind=1|AlternatePart=
+Variation24=Designator=C4|UniqueId=\XEZLLMKM|Kind=1|AlternatePart=
+Variation25=Designator=C5|UniqueId=\HEMPEOIO|Kind=1|AlternatePart=
+Variation26=Designator=C6|UniqueId=\NCDAOLCK|Kind=1|AlternatePart=
+Variation27=Designator=C21|UniqueId=\ZWYLIURW|Kind=1|AlternatePart=
+Variation28=Designator=C22|UniqueId=\YPJBCHFY|Kind=1|AlternatePart=
+Variation29=Designator=C23|UniqueId=\IIFNIPJQ|Kind=1|AlternatePart=
+Variation30=Designator=C24|UniqueId=\YMSTRHDZ|Kind=1|AlternatePart=
+Variation31=Designator=C25|UniqueId=\JTHGOZTT|Kind=1|AlternatePart=
+Variation32=Designator=C26|UniqueId=\PMSJHBCW|Kind=1|AlternatePart=
+Variation33=Designator=C16|UniqueId=\RGHFAZZD|Kind=1|AlternatePart=
+Variation34=Designator=C30|UniqueId=\UBBZZNPO|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Parameter1]
@@ -232,11 +255,11 @@ Value=
 
 [Parameter2]
 Name=Sch_RevNo
-Value=1.1
+Value=1.2
 
 [Parameter3]
 Name=Sch_releaseDate
-Value=May 2025
+Value=December 2025
 
 [Parameter4]
 Name=Project_Title
@@ -248,7 +271,7 @@ Value=A5000_8MB
 
 [Parameter6]
 Name=PCB_RevNo
-Value=1.1
+Value=1.2
 
 [Parameter7]
 Name=Engineer_Name
@@ -256,7 +279,7 @@ Value=Codion Ltd
 
 [Parameter8]
 Name=BOM_RevNo
-Value=1.1
+Value=1.2
 
 [Configuration1]
 Name=Sources
@@ -748,6 +771,11 @@ OutputDocumentPath9=
 OutputVariantName9=[No Variations]
 OutputDefault9=0
 PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType10=BOM_ReportManufacturing
+OutputName10=Manufacturing Data
+OutputDocumentPath10=
+OutputVariantName10=[No Variations]
+OutputDefault10=0
 
 [OutputGroup7]
 Name=Other Outputs
@@ -1041,6 +1069,9 @@ Type155=1
 Type156=1
 Type157=1
 Type158=1
+Type159=1
+Type160=1
+Type161=1
 
 [Difference Levels]
 Type1=1
@@ -1129,6 +1160,8 @@ Type83=1
 Type84=1
 Type85=1
 Type86=1
+Type87=1
+Type88=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1292,6 +1325,10 @@ Type158=0
 Type159=0
 Type160=0
 Type161=0
+Type162=1
+Type163=1
+Type164=1
+Type165=2
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
